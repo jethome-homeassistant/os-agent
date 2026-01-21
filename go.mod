@@ -1,4 +1,4 @@
-module github.com/home-assistant/os-agent
+module github.com/jethome-homeassistant/os-agent
 
 go 1.26.0
 
