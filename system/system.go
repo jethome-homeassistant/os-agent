@@ -8,7 +8,7 @@ import (
 	"github.com/godbus/dbus/v5"
 	"github.com/godbus/dbus/v5/introspect"
 
-	logging "github.com/home-assistant/os-agent/utils/log"
+	logging "github.com/jethome-homeassistant/os-agent/utils/log"
 )
 
 const (
