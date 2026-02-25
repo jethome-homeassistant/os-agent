@@ -9,14 +9,14 @@ import (
 	"github.com/godbus/dbus/v5/introspect"
 	"github.com/godbus/dbus/v5/prop"
 
-	"github.com/home-assistant/os-agent/apparmor"
-	"github.com/home-assistant/os-agent/boards"
-	"github.com/home-assistant/os-agent/cgroup"
-	"github.com/home-assistant/os-agent/config/swap"
-	"github.com/home-assistant/os-agent/config/timesyncd"
-	"github.com/home-assistant/os-agent/datadisk"
-	"github.com/home-assistant/os-agent/system"
-	logging "github.com/home-assistant/os-agent/utils/log"
+	"github.com/jethome-homeassistant/os-agent/apparmor"
+	"github.com/jethome-homeassistant/os-agent/boards"
+	"github.com/jethome-homeassistant/os-agent/cgroup"
+	"github.com/jethome-homeassistant/os-agent/config/swap"
+	"github.com/jethome-homeassistant/os-agent/config/timesyncd"
+	"github.com/jethome-homeassistant/os-agent/datadisk"
+	"github.com/jethome-homeassistant/os-agent/system"
+	logging "github.com/jethome-homeassistant/os-agent/utils/log"
 )
 
 const (
