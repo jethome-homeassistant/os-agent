@@ -14,7 +14,7 @@ import (
 	"github.com/natefinch/atomic"
 	"golang.org/x/crypto/ssh"
 
-	logging "github.com/home-assistant/os-agent/utils/log"
+	logging "github.com/jethome-homeassistant/os-agent/utils/log"
 )
 
 const (
