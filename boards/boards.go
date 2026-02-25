@@ -5,12 +5,12 @@ import (
 	"github.com/godbus/dbus/v5/introspect"
 	"github.com/godbus/dbus/v5/prop"
 
-	"github.com/home-assistant/os-agent/boards/generic"
-	"github.com/home-assistant/os-agent/boards/green"
-	"github.com/home-assistant/os-agent/boards/rpi"
-	"github.com/home-assistant/os-agent/boards/supervised"
-	"github.com/home-assistant/os-agent/boards/yellow"
-	logging "github.com/home-assistant/os-agent/utils/log"
+	"github.com/jethome-homeassistant/os-agent/boards/generic"
+	"github.com/jethome-homeassistant/os-agent/boards/green"
+	"github.com/jethome-homeassistant/os-agent/boards/rpi"
+	"github.com/jethome-homeassistant/os-agent/boards/supervised"
+	"github.com/jethome-homeassistant/os-agent/boards/yellow"
+	logging "github.com/jethome-homeassistant/os-agent/utils/log"
 )
 
 const (
